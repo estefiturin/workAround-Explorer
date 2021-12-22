@@ -1,4 +1,6 @@
 # workAround-Explorer
+
+
  Se nos encomendó ayudar a WorkAround, una organización de investigación ficticia que proporciona datos sobre las tendencias salariales en la industria tecnológica, a crear una nueva aplicación para que sus datos sean más fácilmente visibles. Esto se logró con el uso de la importación / exportación de módulos JavaScript ES6.
 
 **Explorador de WorkAround**
@@ -15,5 +17,3 @@ WorkAround ahora quiere lanzar una nueva aplicación web llamada WorkAround Expl
 
 -El salario promedio de la industria en todos los roles y todas las empresas.
 
-
-  
